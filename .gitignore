@@ -18,3 +18,4 @@
 # Ignore everywhere
 ._*
 .DS_Store
+package-lock.json
