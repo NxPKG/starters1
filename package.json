@@ -1,8 +1,8 @@
 {
-  "name": "stackblitz-starters",
+  "name": "nxpkg-starters",
   "private": true,
   "scripts": {
-    "format:base": "prettier '**/*.{css,scss,json,js,jsx,mjs,cjs,ts,tsx}' '**/.{prettierrc,stackblitzrc}'",
+    "format:base": "prettier '**/*.{css,scss,json,js,jsx,mjs,cjs,ts,tsx}' '**/.{prettierrc,nxpkgrc}'",
     "format:check": "npm run format:base -- --check",
     "format:write": "npm run format:base -- --write"
   },
